@@ -1,0 +1,42 @@
+﻿Volunteer Role Title:
+Frontend Engineer (Volunteer)
+Reports to:
+Founder & Executive Director, Muslim Open Source Foundation
+Commitment:
+5–10 hours per week (flexible, remote, volunteer basis)
+Overview
+The Muslim Open Source Foundation (MOSF) is a nonprofit based in Washington State, USA, dedicated to empowering the global Muslim community through open-source collaboration, education, and ethical technology.
+As a Frontend Engineer (Volunteer), you’ll play a key role in shaping the user experience of MOSF’s early open-source educational initiatives. You’ll help design and implement responsive, accessible interfaces that connect learners, developers, and educators across the globe, starting with MOSF’s first project, the Basic Arabic Reading App, a self-paced program designed to help English speakers learn to read Arabic from scratch.
+This is a volunteer position offering the opportunity to contribute meaningfully from MOSF’s earliest stages and grow alongside its mission.
+Key Responsibilities
+Frontend Development & User Experience
+* Develop and maintain frontend components for MOSF’s early projects (e.g., educational apps, repository tools, or community resources).
+* Implement React and Next.js interfaces with strong accessibility and multilingual support (beginning with Arabic and English).
+* Build reusable, responsive UI elements using Tailwind CSS and modern design principles.
+* Collaborate with backend engineers to integrate APIs and ensure seamless, performant user experiences.
+* Establish frontend coding standards, documentation practices, and starter templates for future MOSF open-source repositories.
+
+
+
+
+Collaboration & Mentorship
+* Work closely with the Founder and other volunteers to translate educational goals into intuitive and engaging interfaces.
+* Participate in code reviews and help define best practices for ethical, transparent open-source development.
+* Contribute to onboarding materials and support future frontend volunteers as the team expands.
+Design Integration & Accessibility
+* Ensure consistent visual design and usability across projects in alignment with MOSF’s brand and mission.
+* Implement right-to-left (RTL) support for Arabic and contribute to MOSF’s multilingual website expansion.
+* Explore tools, libraries, or frameworks that enhance accessibility, interactivity, and learner engagement.
+Ideal Candidate
+* Proficient in React, Next.js, and modern frontend technologies.
+* Experience with Tailwind CSS, TypeScript, and responsive web design.
+* Familiarity with Node.js, RESTful APIs, or Nest.js is a plus.
+* Comfortable working with Git-based collaboration and open-source workflows.
+* Passionate about Islamic values, education, and ethical technology.
+* Organized, reliable, and proactive in asynchronous remote environments.
+* Excited to help shape the visual and user-facing standards of a mission-driven nonprofit from the ground up.
+Benefits
+* Direct mentorship and collaboration with the Founder & Executive Director.
+* Opportunity to design foundational user interfaces that will support global Muslim open-source initiatives.
+* Recognition on the MOSF website as an inaugural volunteer contributor.
+* Letter of recommendation and potential for future leadership or paid roles post-funding, in sha Allah.

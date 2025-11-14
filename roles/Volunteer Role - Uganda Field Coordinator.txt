@@ -1,0 +1,37 @@
+﻿Volunteer Role Title:
+Uganda Field Coordinator (Volunteer)
+Reports to:
+Founder & Executive Director, Muslim Open Source Foundation
+Commitment:
+5–10 hours per week (flexible, hybrid in-person and remote, volunteer basis)
+Overview
+The Muslim Open Source Foundation (MOSF) is a newly forming nonprofit based in Washington State, USA, dedicated to empowering the global Muslim community through open-source collaboration, education, and ethical technology.
+As a Uganda Field Coordinator (Volunteer), you will help stand up the pilot MOSF × AUDF Tech Lab in Kampala, support local training delivery, and ensure reliable ICT infrastructure and transparent documentation. You will coordinate between MOSF’s remote team and AUDF’s on-the-ground staff, helping translate open-source curricula into practical, sustainable learning for youth and women.
+This is a volunteer position offering the chance to contribute meaningfully from MOSF’s earliest stages and grow alongside its mission.
+Key Responsibilities
+* Technical Setup and Support
+   * Assist AUDF with lab setup in Kampala, including computers, networking, internet access, and basic power considerations.
+   * Perform on-site troubleshooting, maintenance, and inventory tracking of ICT equipment.
+   * Document configurations, checklists, and procedures in MOSF repositories and shared workspaces.
+* Training Enablement
+   * Support delivery of digital literacy and introductory programming sessions using open-source curricula.
+   * Help adapt materials for local context and languages where possible.
+   * Encourage responsible and ethical technology use aligned with Islamic values.
+* Coordination and Reporting
+   * Serve as the point of contact between MOSF and AUDF for pilot planning, logistics, and weekly updates.
+   * Capture progress notes, photos, and simple metrics for transparency reports and website updates.
+   * Join regular coordination calls with MOSF and share risks, needs, and recommendations.
+* Community Representation
+   * Represent MOSF professionally with learners, trainers, partners, and local institutions.
+   * Help identify and onboard additional local volunteers or trainers as the program grows.
+Ideal Candidate
+* Diploma or higher in ICT, Computer Science, or related field.
+* Hands-on experience with computer labs, basic networking, and end-user support.
+* Comfortable coordinating across teams and documenting work clearly.
+* Passion for Islamic values, education, and service to community.
+* Based in Uganda and able to be present in Kampala as needed. Willingness to travel within Uganda if required for outreach or expansion.
+Benefits
+* Contribute to a mission-driven global-local initiative from its earliest phase.
+* Learn and practice open-source collaboration and transparent reporting.
+* Recognition on the MOSF website as an inaugural volunteer contributor.
+* Letter of recommendation and potential for future leadership as the program scales, insha Allah.

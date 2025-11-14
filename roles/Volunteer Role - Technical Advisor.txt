@@ -1,0 +1,41 @@
+﻿Volunteer Role Title:
+Technical Advisor (Volunteer)
+Reports to:
+Founder & Executive Director, Muslim Open Source Foundation
+Commitment:
+3–6 hours per week (flexible, remote, volunteer basis)
+Overview
+The Muslim Open Source Foundation (MOSF) is a nonprofit based in Washington State, USA, dedicated to empowering the global Muslim community through open-source collaboration, education, and ethical technology.
+As a Technical Advisor (Volunteer), you’ll play a key mentorship and guidance role during MOSF’s earliest projects, starting with the Basic Arabic Reading program, a self-paced open-source learning tool for English speakers with no prior Arabic knowledge.
+You’ll help maintain balance between vision and execution: ensuring that our technical work stays purposeful, scalable, and aligned with MOSF’s educational and ethical goals. You won’t be hands-on in every commit, but you’ll be instrumental in shaping how the team works, guiding technical decisions, and keeping us from designing ourselves into a corner.
+This is a volunteer position offering the opportunity to influence the foundation’s earliest systems, processes, and standards, insha Allah.
+Key Responsibilities
+Technical Guidance & Oversight
+* Provide high-level architectural and design feedback on MOSF’s early projects, ensuring solutions are practical, maintainable, and mission-aligned.
+* Serve as a sounding board and tiebreaker between product direction (led by the Founder) and implementation (led by volunteer engineers).
+* Help define a clear and scalable technical path for Basic Arabic Reading and similar educational tools.
+* Identify potential pitfalls early, from design complexity to usability or sustainability concerns.
+
+
+Mentorship & Collaboration
+* Support and advise volunteer developers as they contribute to repositories.
+* Encourage open communication, lightweight documentation, and ethical open-source practices.
+* Help set technical priorities and balance ambition with simplicity during early builds.
+* Foster a collaborative environment grounded in sincerity, mutual respect, and continuous learning.
+Strategic Input
+* Advise on the overall technical direction of MOSF’s ecosystem (e.g., frameworks, hosting, multilingual support, long-term maintainability).
+* Help shape the processes and standards that future MOSF engineers and contributors will follow.
+* Provide occasional input on project evaluation frameworks and other technical initiatives as the foundation expands.
+Ideal Candidate
+* 8+ years of software engineering or technical leadership experience, ideally spanning both startup and product environments.
+* Comfortable mentoring and advising developers on architecture, design trade-offs, and engineering best practices.
+* Broad technical understanding across backend, frontend, and cloud stacks (e.g., AWS, .NET, Node.js, or similar).
+* Excellent communicator who can bridge vision and execution with empathy and clarity.
+* Values-driven professional motivated by open knowledge, ethical technology, and service to the ummah.
+* Aligned with MOSF’s mission: Empower the global Muslim community to gain Islamic and software engineering knowledge freely through open-source collaboration, education, and innovation.
+Benefits
+* Opportunity to shape the technical culture and standards of a global nonprofit from its inception.
+* Recognition on the MOSF website as a founding technical contributor.
+* Direct collaboration with the Founder and other senior engineers.
+* Letters of recommendation and consideration for formal board membership or future leadership roles as MOSF matures, insha Allah.
+* The reward of using your skills in service of a faith-aligned, open-knowledge mission that can benefit generations to come.

@@ -1,0 +1,38 @@
+﻿Volunteer Role Title:
+Mobile App Developer (Volunteer)
+Reports to:
+Founder & Executive Director, Muslim Open Source Foundation
+Commitment:
+5–10 hours per week (flexible, remote, volunteer basis)
+Overview
+The Muslim Open Source Foundation (MOSF) is a nonprofit based in Washington State, USA, dedicated to empowering the global Muslim community through open-source collaboration, education, and ethical technology.
+As a Mobile App Developer (Volunteer), you’ll play a key role in transforming MOSF’s educational vision into a cross-platform mobile experience. You'll help design and develop the mobile application for MOSF's first project, the Basic Arabic Reading App, a self-paced program designed to help English speakers learn to read Arabic from scratch.
+This is a volunteer position offering the opportunity to contribute meaningfully from MOSF's earliest stages and grow alongside its mission.
+Key Responsibilities
+Mobile Development & Integration
+* Develop and maintain cross-platform mobile applications using Flutter and Dart.
+* Implement responsive and accessible UI designs with a focus on seamless user experience across Android and iOS.
+* Integrate frontend components with backend APIs and authentication services.
+* Ensure mobile apps adhere to secure coding, performance optimization, and data privacy best practices.
+* Contribute to establishing mobile development standards, documentation practices, and reusable components for future MOSF projects.
+Collaboration & Open-Source Contribution
+* Work closely with frontend and backend volunteers to ensure consistent performance and design across web and mobile platforms.
+* Participate in code reviews, issue tracking, and project discussions within MOSF’s open-source repositories.
+* Contribute to onboarding materials and assist in mentoring future mobile contributors as the team expands.
+Accessibility & Multilingual Support
+* Collaborate with the frontend team to implement Arabic (RTL) and multilingual capabilities within mobile interfaces.
+* Ensure usability and readability for learners of diverse technical and linguistic backgrounds.
+* Explore mobile frameworks or libraries that enhance accessibility, interactivity, and learning engagement.
+Ideal Candidate
+* Proficient in Flutter and Dart, with experience deploying apps to Android and iOS.
+* Familiar with Firebase, RESTful APIs, and cross-platform integrations.
+* Strong understanding of secure mobile development and state management.
+* Comfortable working with Git-based collaboration and open-source workflows.
+* Passionate about Islamic education, open knowledge, and ethical technology.
+* Organized, reliable, and proactive in asynchronous, remote environments.
+* Excited to help shape the mobile foundation of a mission-driven nonprofit from the ground up.
+Benefits
+* Direct collaboration with the Founder & Executive Director.
+* Opportunity to lead the development of MOSF’s first mobile app for global learners.
+* Recognition on the MOSF website as an inaugural volunteer contributor.
+* Letter of recommendation and potential for future leadership or paid roles post-funding, insha Allah.

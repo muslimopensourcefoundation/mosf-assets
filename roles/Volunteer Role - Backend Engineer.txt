@@ -1,0 +1,35 @@
+﻿Volunteer Role Title:
+Backend Engineer (Volunteer)
+Reports to:
+Founder & Executive Director, Muslim Open Source Foundation
+Commitment:
+5–10 hours per week (flexible, remote, volunteer basis)
+Overview
+The Muslim Open Source Foundation (MOSF) is a nonprofit based in Washington State, USA, dedicated to empowering the global Muslim community through open-source collaboration, education, and ethical technology.
+As a Backend Engineer (Volunteer), you’ll play a key role in laying the technical foundations of MOSF’s early open-source initiatives. You’ll help design and develop backend systems that support educational and collaborative tools, establish reusable service templates for future projects, and contribute to a growing ecosystem that unites Islamic knowledge with modern software engineering.
+This is a volunteer position offering the opportunity to contribute meaningfully from MOSF’s earliest stages and grow alongside its mission.
+Key Responsibilities
+Backend Development & Infrastructure
+* Develop and maintain backend services, APIs, and integrations for MOSF’s early projects (e.g., educational platforms, repository tools, or community resources).
+* Establish coding standards, documentation practices, and starter templates for future MOSF open-source repositories.
+* Contribute to multilingual support, authentication systems, and integration with web frontends.
+* Collaborate on database design, API specifications, and deployment workflows.
+Collaboration & Mentorship
+* Work closely with the Founder and other volunteers to translate project goals into technical deliverables.
+* Participate in code reviews and help define best practices for ethical, transparent open-source development.
+* Support onboarding of future volunteer developers as the team grows.
+Automation & Tooling
+* Contribute to scripts or services that automate internal processes, such as open-source project evaluation or content management.
+* Explore opportunities to use modern backend frameworks and deployment strategies that balance simplicity, scalability, and accessibility.
+Ideal Candidate
+* Proficient in one or more modern backend stacks (e.g., .NET C#, Python, Go, Ruby, or TypeScript/Node.js).
+* Familiar with relational databases (MSSQL, PostgreSQL, MySQL) and common ORM frameworks.
+* Comfortable with Git-based collaboration, Docker, and cloud deployment environments.
+* Passionate about Islamic values, education, and ethical technology.
+* Organized, reliable, and proactive in asynchronous remote environments.
+* Excited to help shape the technical standards of a mission-driven nonprofit from the ground up.
+Benefits
+* Direct mentorship and collaboration with the Founder & Executive Director.
+* Opportunity to design foundational systems that will support global Muslim open-source initiatives.
+* Recognition on the MOSF website as an inaugural volunteer contributor.
+* Letter of recommendation and potential for future leadership or paid roles post-funding, insha Allah.
